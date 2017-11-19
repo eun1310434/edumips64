@@ -10,8 +10,6 @@ java_library(
     ],
 )
 
-# WORKING
-
 java_library(
     name = "registerfp",
     srcs = [

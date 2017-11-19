@@ -19,8 +19,6 @@ java_library(
     ],
 )
 
-# WORKING
-
 java_library(
     name = "iomanager",
     srcs = [
