@@ -20,6 +20,7 @@ java_library(
         "ConfigKey.java",
         "ConfigStore.java",
         "ConfigStoreTypeException.java",
+        "InMemoryConfigStore.java",
     ],
 )
 
